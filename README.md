@@ -22,10 +22,7 @@ The "People and Pets Management System" is a Java application that manages a lis
 To install and run the project, follow these steps:
 
 1. Ensure you have [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Maven 4.0.0](https://maven.apache.org/), and [Apache Server](https://www.apache.org/) installed.
-2. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/Java-People-Pets-Management
-    ```
+2. Clone the repository
 3. Open the project in IntelliJ IDEA.
 4. Import the project as a Maven project.
 5. Synchronize Maven dependencies.
